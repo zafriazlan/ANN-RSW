@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>cropped-SMRI-logo-6.jpeg</file>
+  </qresource>
+</RCC>
